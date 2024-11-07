@@ -6,3 +6,5 @@ yellow
 blue
 orange
 turquoise
+
+Colours in the rainbow
